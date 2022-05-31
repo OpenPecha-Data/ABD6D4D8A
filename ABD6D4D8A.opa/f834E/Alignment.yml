@@ -1,0 +1,25 @@
+segment_sources:
+  I59CD4449:
+    type: origin_type
+    relation: translation
+    language: en
+  I65AB8AA9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c2eea5cf069947c29c035de25bc49d56:
+    I59CD4449: 5d2b5486736447a78eab3bce46de8970
+    I65AB8AA9: c1d2b8ca6acc41028e9003a424d8f96b
+  b9bee62997474287a7cde3f056740ba2:
+    I59CD4449: 3046abb2451c480884a0d20614dd91d4
+    I65AB8AA9: a1f1191755d54947b462fbd60eb81687
+  bee1e9f02a5f4725a50ba2b9686cc49b:
+    I59CD4449: ada86744d73e455ba7f226a1d669a69b
+    I65AB8AA9: e56b5d779faf47419b95fb147e9ef6e7
+  7ac8bf43a6944a4a96bcfdf88ab8ff97:
+    I59CD4449: a81a6069822c4150afeaa049613b9116
+    I65AB8AA9: c2f3775fa8b94c7a9a3b818e75d6e7fe
+  4d3002c39b024723960d73a09711b3c2:
+    I59CD4449: 21efa63c411b4f439b60ad04705a6152
+    I65AB8AA9: 94abce2241a747f087cb3a96c6b09174
